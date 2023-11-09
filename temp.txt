@@ -1,15 +1,3 @@
-Abandon=>complete lack of inhibition or restraint.
-==
-Abrasive=> showing little concern for the feelings of others;harsh.
-==
-Abreast=> up to date with the latest news, ideas, or information
-==
-Abridge=> shorten (a piece of writing) without losing the sense.
-==
-Abstruse=> difficult to understand; obscure.
-==
-Accentuate=> to make (something) more prominent or noticeable
-==
 Accord=> an official agreement or treaty.
 ==
 Acerbic=> sharply or bitingly critical, sarcastic, or ironic in temper, mood, or tone
@@ -1174,43 +1162,3 @@ Untapped=> (of a resource) not yet exploited or used.
 ==
 Utterly=> completely and without qualification; absolutel
 ==
-Venal=> showing or motivated by susceptibility to bribery; corrupt.
-==
-Veracious=> speaking or representing the truth.
-==
-Vestigial=> forming a very small remnant of something that was once greater or more noticeable, remaining, surviving
-==
-Viable=> capable of working successfully; feasible. 
-==
-Vigilance=> the action or state of keeping careful watch for possible danger or difficulties.
-==
-Vindicate=> clear (someone) of blame or suspicion.
-==
-Virulence=> the severity or harmfulness of a disease or poison.
-==
-Vociferous=> expressing or characterized by vehement opinions; loud and forceful.
-If you describe someone as vociferous, you mean that they speak with great energy and determination, because they want their views to be heard.
-He was a vociferous opponent of Conservatism. 
-Synonyms: outspoken, vocal, strident, noisy   More Synonyms of vociferous
-vociferously ADVERB
-He vociferously opposed the state of emergency imposed by the government. 
-==
-Voluble=> (of a person) talking fluently, readily, or incessantly Wanting lacking in a required or necessary quality.
-ADJECTIVE
-If you say that someone is voluble, you mean that they talk a lot with great energy and enthusiasm.
-[formal]
-She was voluble with excitement. 
-Bert is a voluble, gregarious man. 
-Synonyms: talkative, garrulous, loquacious, forthcoming   More Synonyms of voluble
-volubly (vɒlyəbli IPA Pronunciation Guide) ADVERB [ADV with v]
-In the next booth he could see an elderly lady, talking volubly. 
-==
-Wary=> feeling or showing caution about possible dangers or problems.
-==
-Wilful=> (of a bad or harmful act) intentional; deliberate
-==
-Witty=> showing or characterized by quick and inventive verbal humour
-==
-Woo=> seek the favour, support, or custom of
-==
-Zealot=> a person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals.

@@ -1,7 +1,7 @@
 import random
 import os
 with open("words.list.txt", "r") as f:
-    lines = f.readlines()
+    lines = f.read().split("==")
     list = random.sample(range(0, len(lines)-1), len(lines)-1)
 
     for index in list:
